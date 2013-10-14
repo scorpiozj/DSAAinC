@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3C0B1272-D578-49F4-82D1-1557A197530B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>List</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8870DE7E-099C-4097-86D4-4FF986BB9BE2</key>
+		<string>https://github.com/scorpiozj/DSAAinC.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ch3/List/List.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8870DE7E-099C-4097-86D4-4FF986BB9BE2</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/scorpiozj/DSAAinC.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8870DE7E-099C-4097-86D4-4FF986BB9BE2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8870DE7E-099C-4097-86D4-4FF986BB9BE2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DSAAinC</string>
+		</dict>
+	</array>
+</dict>
+</plist>
